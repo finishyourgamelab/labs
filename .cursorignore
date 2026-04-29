@@ -1,0 +1,87 @@
+# Version control internals
+.git/
+**/.git/
+
+# Dependencies
+node_modules/
+bower_components/
+vendor/
+lua_modules/
+luarocks/
+
+# Build outputs and caches
+build/
+dist/
+out/
+bin/
+obj/
+target/
+tmp/
+temp/
+.cache/
+.parcel-cache/
+.turbo/
+.vite/
+coverage/
+CMakeFiles/
+cmake-build-*/
+.godot/
+.import/
+
+# Release/export artifacts
+exports/
+releases/
+release/
+builds/
+itch/
+steam/
+*.love
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.rar
+*.unitypackage
+
+# Large media generated during development or content creation
+captures/
+recordings/
+screenshots/
+renders/
+videos/
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.wav
+*.aiff
+
+# Binary and debug outputs
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.pdb
+*.ilk
+*.dSYM/
+
+# Editor, OS, and local state
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.cursor/
+*.code-workspace
+*.log
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+secrets/
+credentials/

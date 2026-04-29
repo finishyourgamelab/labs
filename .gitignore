@@ -1,0 +1,130 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+*.temp
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# Cursor and local AI/editor state
+.cursor/
+*.code-workspace
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+credentials/
+
+# Logs and crash dumps
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+crash.log
+crash.dmp
+
+# Dependencies and package managers
+node_modules/
+bower_components/
+vendor/
+.pnp/
+.pnp.js
+
+# Build outputs and caches
+build/
+dist/
+out/
+bin/
+obj/
+target/
+tmp/
+temp/
+.cache/
+.parcel-cache/
+.turbo/
+.vite/
+coverage/
+
+# Archives and exported packages
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.rar
+*.unitypackage
+
+# Game exports and release builds
+exports/
+releases/
+release/
+builds/
+itch/
+steam/
+
+# Large/generated media assets
+captures/
+recordings/
+screenshots/
+renders/
+videos/
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.wav
+*.aiff
+
+# Keep source-friendly audio/image assets trackable by default.
+# Move very large source assets into an external asset store when needed.
+
+# PICO-8
+*.p8.png
+.pico-8/
+
+# LÖVE / Lua
+*.love
+luarocks/
+lua_modules/
+
+# Godot
+.godot/
+.import/
+*.import
+export_presets.cfg
+*.translation
+
+# C / C++
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.pdb
+*.ilk
+*.dSYM/
+compile_commands.json
+CMakeFiles/
+CMakeCache.txt
+cmake-build-*/
+
+# Nested repositories used for experiments should remain independent.
+prototypes/**/.git/
+research/**/.git/
