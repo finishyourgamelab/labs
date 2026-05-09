@@ -128,3 +128,6 @@ cmake-build-*/
 # Nested repositories used for experiments should remain independent.
 prototypes/**/.git/
 research/**/.git/
+
+# Escape From Dark (Love2D): runtime ships .ogg only; mp3 from generate_audio.py is optional local output
+prototypes/escape-from-dark-love2d/assets/audio/*.mp3

@@ -1,0 +1,58 @@
+Copyright (c) 2024–2026 finishyourgamelab, gogoapah. All Rights Reserved.
+
+Scope:
+  This license applies to the entire Finish Your Game Lab workspace repository —
+  including all existing and future content under paths such as `prototypes/`,
+  `research/`, `tools/`, `episodes/`, `docs/`, and `assets/` — unless a
+  subdirectory explicitly states otherwise or bundles third-party material under
+  its own license file.
+
+This repository is the public companion to the YouTube channel
+"Finish Your Game Lab" (https://www.youtube.com/@FinishYourGameLab).
+
+The source code, design notes, and prototypes contained in this
+repository are published for educational viewing only. They are part
+of an ongoing series of game-development videos and exist so that
+viewers can follow along, study the implementation, and learn from the
+process.
+
+Permitted (without prior written permission):
+  * Read the source code.
+  * Run the prototypes locally on your own machine.
+  * Quote short snippets in personal notes, blog posts, or talks for
+    the purpose of teaching, criticism, or review, with clear
+    attribution to "finishyourgamelab / gogoapah" and a link back to
+    the channel.
+
+Not permitted (requires written permission):
+  * Redistribution of this repository or any substantial portion of
+    its source code, in original or modified form, by any means.
+  * Hosting mirrors, forks intended for redistribution, or republishing
+    the prototypes as your own work.
+  * Commercial use of any kind, including bundled releases, paid
+    courses, advertising-supported sites, or in-app sales.
+  * Use of the prototypes, source code, or branding to train, fine-tune,
+    or evaluate machine-learning models without prior written consent.
+
+Third-party assets bundled in subfolders may carry their own permissive
+licenses (for example, the SIL Open Font License for fonts under
+prototypes/escape-from-dark-love2d/assets/fonts/). Those assets remain
+governed by their original licenses; this notice does not override them.
+
+THE SOFTWARE AND CONTENT ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH
+THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+For licensing requests, sponsorships, or other business enquiries,
+please contact the channel via:
+  https://www.youtube.com/@FinishYourGameLab
+
+中文摘要（僅作參考，正式條款以英文版為準）：
+  本 repository 為 YouTube 頻道「Finish Your Game Lab」的公開輔助專案，
+  著作權所有 © finishyourgamelab、gogoapah，保留所有權利；上述條款適用於
+  整個 workspace（含 `prototypes/` 等現有與日後新增的目錄），另有明示除外。
+  內容供觀看與學習研究，禁止再散佈、禁止商業用途、禁止用於訓練 AI 模型。
+  第三方素材（字型、音訊等）若另有授權檔，以該授權為準。

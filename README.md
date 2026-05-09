@@ -37,3 +37,11 @@ docs/           長篇文件、設計筆記與開發紀錄
 ## YouTube
 
 頻道連結：<https://www.youtube.com/@FinishYourGameLab>
+
+## 授權
+
+著作權所有 © 2024–2026 finishyourgamelab、gogoapah，保留所有權利。
+本 repository 為 YouTube 頻道的公開輔助專案，內容僅供觀看與學習，禁止
+再散佈、商業使用、或用於訓練 AI 模型。第三方素材（字型 / 音訊等）若
+另有授權檔，依該授權為準。詳情請見 [LICENSE](LICENSE)（條款適用於整個 repository，
+含 `prototypes/`、`research/` 等現有與未來子目錄；見該檔 Scope 一節）。
