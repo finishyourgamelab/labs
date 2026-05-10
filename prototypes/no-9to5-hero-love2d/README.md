@@ -28,3 +28,9 @@ love .
 - 一般敵人與菁英敵人
 - XP 寶石、等級與三選一升級
 - 生命值、分數、存活時間與遊戲結束畫面
+
+## 授權
+
+本目錄依 repo 根目錄 [LICENSE](../../LICENSE)：程式碼採 BSD 3-Clause、
+非程式碼素材採 CC BY 4.0；第三方素材（如 `fonts/` 下的 SIL Open Font
+License 字型）依各自原授權檔，不受本條款覆蓋。

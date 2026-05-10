@@ -5,8 +5,8 @@
 搜刮足夠物資後抵達撤離點。
 
 > 本專案是 [finishyourgamelab](https://www.youtube.com/@finishyourgamelab) YouTube
-> 頻道遊戲開發過程的紀錄分享，所有程式碼僅供觀看與學習參考，請見
-> repository 根目錄 [LICENSE](../../LICENSE)（適用整個 lab repo）。
+> 頻道遊戲開發過程的紀錄分享。授權依 repository 根目錄 [LICENSE](../../LICENSE)
+> ——程式碼採 BSD 3-Clause、非程式碼素材採 CC BY 4.0、第三方素材依各自授權檔。
 
 ## 執行
 
@@ -169,6 +169,12 @@ session 被中斷，下一個 session 可以打開 `TASKS.md` 從第一個未完
 
 ## 授權
 
-著作權所有 © 2024–2026 finishyourgamelab、gogoapah，保留所有權利。
-本專案是 [Finish Your Game Lab](https://www.youtube.com/@FinishYourGameLab)
-頻道的開發紀錄，僅供觀看與學習；授權條款以 repo 根目錄 [LICENSE](../../LICENSE) 為準。
+著作權所有 © 2024–2026 finishyourgamelab、gogoapah。
+
+本目錄依 repo 根目錄 [LICENSE](../../LICENSE)：程式碼採
+[BSD 3-Clause](https://opensource.org/license/bsd-3-clause)、非程式碼素材
+採 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)；第三方素材
+（如 `assets/fonts/` 下的 SIL Open Font License 字型，以及由
+`assets/audio_src/generate_audio.py` 程序產生的 `.ogg` 檔）依各自原授權檔，
+不受本條款覆蓋。詳細條款（含 attribution 範例與 AI Disclosure）請見根目錄
+[LICENSE](../../LICENSE)。

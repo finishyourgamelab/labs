@@ -40,8 +40,36 @@ docs/           長篇文件、設計筆記與開發紀錄
 
 ## 授權
 
-著作權所有 © 2024–2026 finishyourgamelab、gogoapah，保留所有權利。
-本 repository 為 YouTube 頻道的公開輔助專案，內容僅供觀看與學習，禁止
-再散佈、商業使用、或用於訓練 AI 模型。第三方素材（字型 / 音訊等）若
-另有授權檔，依該授權為準。詳情請見 [LICENSE](LICENSE)（條款適用於整個 repository，
-含 `prototypes/`、`research/` 等現有與未來子目錄；見該檔 Scope 一節）。
+著作權所有 © 2024–2026 finishyourgamelab、gogoapah。
+
+本 repository 為 YouTube 頻道的公開輔助專案，採「程式碼／非程式碼」雙軌授權：
+
+- **程式碼**（Lua、Python、`.p8` 檔中作者撰寫的 Lua/設定部分、shell 腳本、設定檔等）：採
+  [BSD 3-Clause License](https://opensource.org/license/bsd-3-clause)（含標準的 non-endorsement 條款）。
+- **非程式碼素材**（README、開發筆記、原創設計、原創美術、原創音訊等）：採
+  [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)。
+- **第三方素材**（字型、音訊等）：依各自原授權檔（例如 `prototypes/escape-from-dark-love2d/assets/fonts/` 與
+  `prototypes/no-9to5-hero-love2d/fonts/` 下的 SIL Open Font License 字型），不受上述條款覆蓋。
+
+歡迎 fork、大幅改寫、發行你自己的遊戲，包含**商業用途**。唯一硬性需求是
+**保留署名（attribution）**，建議格式如下，可直接複製：
+
+```text
+Based on work by Finish Your Game Lab (https://www.youtube.com/@FinishYourGameLab).
+Original repository: <repo URL placeholder>
+Modifications: <briefly describe>
+Code portions licensed under the BSD 3-Clause License.
+Documentation and creative material licensed under CC BY 4.0.
+```
+
+**品牌邊界**：請勿使用「Finish Your Game Lab」、頻道名稱或作者姓名來暗示對你衍生作品的
+背書、推薦、贊助或官方合作關係（這已是 BSD 3-Clause 第三條與 CC BY 4.0 Section
+2(b)(2)/2(a)(6) 的硬性條款）。單純事實性署名（「改作自 Finish Your Game Lab」）完全 OK
+且歡迎。
+
+**AI 揭露**：本 repo 多數內容由 AI 輔助產出（"vibe coding"）。在現行美國著作權實務下，
+純 AI 產出且缺乏充分人類創作貢獻的部分可能不受著作權保護，使用者可視為近 public
+domain，**不必署名亦可使用**；上述授權僅在作者實際享有著作權的範圍內生效。完整說明
+請見 [LICENSE](LICENSE) 中的「AI Disclosure」段落。
+
+詳細條款與正式英文 legal code 請見 [LICENSE](LICENSE)。
