@@ -51,8 +51,9 @@ docs/           長篇文件、設計筆記與開發紀錄
 - **第三方素材**（字型、音訊等）：依各自原授權檔（例如 `prototypes/escape-from-dark-love2d/assets/fonts/` 與
   `prototypes/no-9to5-hero-love2d/fonts/` 下的 SIL Open Font License 字型），不受上述條款覆蓋。
 
-歡迎 fork、大幅改寫、發行你自己的遊戲，包含**商業用途**。唯一硬性需求是
-**保留署名（attribution）**，建議格式如下，可直接複製：
+歡迎 fork、大幅改寫、發行你自己的遊戲，包含**商業用途**。除非你對特定利用另有獨立合法依據，
+否則請遵循下方授權：對程式碼與非程式碼素材**保留署名（attribution）**並遵守 non-endorsement
+條款。建議格式如下，可直接複製：
 
 ```text
 Based on work by Finish Your Game Lab (https://www.youtube.com/@FinishYourGameLab).
@@ -67,9 +68,11 @@ Documentation and creative material licensed under CC BY 4.0.
 2(b)(2)/2(a)(6) 的硬性條款）。單純事實性署名（「改作自 Finish Your Game Lab」）完全 OK
 且歡迎。
 
-**AI 揭露**：本 repo 多數內容由 AI 輔助產出（"vibe coding"）。在現行美國著作權實務下，
-純 AI 產出且缺乏充分人類創作貢獻的部分可能不受著作權保護，使用者可視為近 public
-domain，**不必署名亦可使用**；上述授權僅在作者實際享有著作權的範圍內生效。完整說明
-請見 [LICENSE](LICENSE) 中的「AI Disclosure」段落。
+**AI 揭露**：本 repo 許多內容由 AI 輔助產出（"vibe coding"）。AI／著作權交界仍在發展，
+且高度依個案事實；**並非**「凡經 prompt」即自動無著作權。作者將檔案**以其提交形態**連同
+整體編排、整合、修訂與測試視為具有實質人類創作投入；BSD / CC BY 於作者得依法授權之範圍
+內生效。**此揭露不構成**對任何特定片段無保護之承認或對權利之放棄。自本 repo 取用素材時，
+除非你另有獨立合法依據，否則請依 [LICENSE](LICENSE) 遵循 BSD / CC BY（含署名）；作者並
+**強烈建議**任何可追溯至本專案之再利用皆保留署名。完整英文說明見 LICENSE「AI Disclosure」。
 
 詳細條款與正式英文 legal code 請見 [LICENSE](LICENSE)。

@@ -42,6 +42,20 @@ games — as long as you keep the required attribution and respect the
 non-endorsement clause. See PART A and PART B for the legally
 binding terms.
 
+Compilation / reservation of rights
+----------------------------------
+The authors regard this repository **as committed** — including its
+curated directory layout, integration of components, selection of what
+is checked in, file-level revisions, and testing — as embodying
+substantial human creative choices. To the extent applicable law
+recognizes copyright or related rights in that compilation,
+coordination, or arrangement, those rights are asserted.
+
+Rights **not** expressly granted under PART A (BSD 3-Clause) or PART B
+(CC BY 4.0) remain **reserved**. Nothing in this notice waives,
+assigns, or licenses trademarks except as each reproduced license may
+require for lawful attribution.
+
 Scope
 -----
 This dual-license arrangement applies to the entire Finish Your Game
@@ -95,40 +109,50 @@ heavy AI assistance (so-called "vibe coding"): code, prose, design
 notes, and some art/audio were drafted, expanded, or refactored by
 generative AI under human direction.
 
-Under current U.S. copyright practice (see, e.g., the U.S. Copyright
-Office's 2025 report on Copyright and Artificial Intelligence, Part
-2: Copyrightability, and the D.C. Circuit's 2025 decision in Thaler
-v. Perlmutter), purely AI-generated output that lacks sufficient
-human creative contribution is generally not eligible for copyright
-protection in the United States. Other jurisdictions take a range of
-positions; consult local counsel if the distinction matters to you.
+Copyright law around highly automated or AI-assisted works is **still
+evolving** and **fact-specific**. Regulators and courts continue to
+address where human authorship begins and ends (see, for background
+only, the U.S. Copyright Office materials on artificial intelligence
+and related litigation such as *Thaler v. Perlmutter*). Other
+jurisdictions take different approaches; consult qualified counsel if
+the distinction matters for your project.
 
-Practical consequences for users of this repository:
+**Authors' position (informational, not legal advice):** the authors
+consider the repository — files **as committed**, together with human
+choices in prompting, iteration, selection among outputs, substantive
+editing, refactoring, debugging, integration, and overall arrangement
+— to reflect substantial human creative input for much of what is
+distributed here.
+
+Practical guidance for users of this repository:
 
   * The licenses in PART A (BSD 3-Clause) and PART B (CC BY 4.0) are
-    granted to the extent the authors hold copyright. They cover
-    the human creative contribution embodied in this work —
-    including prompt design and iteration, curation and selection of
-    AI outputs, integration, editing, refactoring, testing,
-    arrangement, and the project as a compilation.
+    granted **to the extent** the authors hold rights licensable
+    under those instruments. They are intended to cover human
+    creative contribution embodied in this work — including prompt
+    design and iteration, curation and selection of AI outputs,
+    integration, editing, refactoring, testing, arrangement, and the
+    project viewed as a compilation — **without** the authors conceding
+    the outer boundaries of protectability in every excerpt.
 
-  * Portions that are purely AI-generated and that the authors did
-    not meaningfully modify or arrange may, under U.S. law, fail to
-    qualify for copyright at all. Such portions can in practice be
-    treated by users as effectively public-domain-like material:
-    you may use them freely, and attribution is not legally
-    required for them.
+  * Whether any particular line, asset, or fragment might **later**
+    be deemed outside copyright protection in some jurisdiction is
+    **uncertain** and may depend on facts not visible from this
+    repository alone. **Nothing in this disclosure** admits that any
+    specific portion is unprotected, waives any claim the authors may
+    have under applicable law, or invites reliance on informal
+    summaries instead of PART A and PART B.
 
-  * Even so, when forking or building on the repository as a whole,
-    the authors strongly encourage following the "Suggested
-    attribution" example above. It is the friendly thing to do, it
-    helps viewers find the channel, and it avoids accidentally
-    "permissive-washing" mixed material whose legal status may be
-    ambiguous.
+  * When you fork, copy from, or build on **material obtained from
+    this repository**, comply with PART A and PART B (including
+    attribution and non-endorsement) **unless** you have an
+    independent legal basis to proceed otherwise. The authors
+    **strongly encourage** the "Suggested attribution" example above
+    for any reuse traceable to this project.
 
-  * Nothing in this disclosure expands the rights granted in PART A
-    or PART B; it only honestly describes the limits of those
-    rights as the authors understand them.
+  * Nothing in this disclosure **expands or diminishes** the rights
+    granted in PART A or PART B beyond what those license texts
+    provide; it describes context and intent only.
 
 中文摘要（繁體；僅作參考，正式條款以下方 PART A 之英文 BSD 3-Clause
 License 全文與 PART B 之英文 CC BY 4.0 Public License 全文為準）
@@ -146,7 +170,7 @@ License 全文與 PART B 之英文 CC BY 4.0 Public License 全文為準）
     等）：採 **CC BY 4.0**，全文見下方 PART B。
     SPDX-License-Identifier: CC-BY-4.0
 
-歡迎 fork、研究、改寫、再散佈，包含**用於你自己的商業遊戲**。
+歡迎 fork、研究、改寫、再散佈，包含**用於你自己的商業遊戲**。除你對特定利用另有獨立合法依據外，
 唯一硬性要求是：
   (1) 保留對 Finish Your Game Lab 的署名（attribution，建議格式見
       上方 "Suggested attribution"）；以及
@@ -159,15 +183,25 @@ License 全文與 PART B 之英文 CC BY 4.0 Public License 全文為準）
 OFL），以該授權為準，**不受**本檔的 BSD 3-Clause 與 CC BY 4.0 影響。
 詳細列舉請見 PART C。
 
-AI 揭露摘要：本 repo 多數內容由 AI 輔助產出（"vibe coding"）。在現行
-美國著作權實務下（U.S. Copyright Office 2025 年報告與 D.C. Circuit
-2025 年 Thaler v. Perlmutter 判決），純 AI 產出且缺乏充分人類創作
-貢獻的部分可能不受著作權保護；上述授權僅在作者實際享有著作權的
-範圍內生效，且涵蓋人類的創作貢獻（包含 prompt 設計、選擇、整合、
-編輯、測試、編排）。純 AI 產出且未經人類充分修改的部分，使用者可
-視為近 public domain，**不必署名亦可使用**；但若整體 fork 本 repo，
-仍鼓勵照「Suggested attribution」範例署名。完整英文版請見上方
-"AI Disclosure" 段落。
+編輯物／權利保留（中文摘要）：作者將本 repository **目前提交之狀態**
+——包含目錄編排、元件整合、取捨與版本修訂、測試等人類創作性選擇——
+視為具有實質人類著作投入之編輯／編排表現；於適用法容許範圍內主張
+相關著作權或類似權利。**未**經 PART A（BSD 3-Clause）或 PART B（CC BY
+4.0）明文授予之權利仍予保留。
+
+AI 揭露摘要：**並非**「凡經 AI／prompt 產出」即自動無著作權；相關
+法理仍在發展且高度依個案事實。本 repo 多數內容由 AI 輔助產出（"vibe
+coding"）。作者之立場（僅供理解，非法律意見）：檔案**以其提交形態**
+連同人類在構想、迭代 prompt、篩選輸出、實質編輯、重構、除錯、整合
+與整體編排上的選擇，對外散佈之大宗內容應含有相當程度之人類創作貢獻。
+BSD / CC BY 係於作者得依法授權之範圍內授予，**並不代表**作者承認任一
+特定片段於任何法域均無保護，亦**不構成**對任何權利之放棄。
+
+自本 repository **取得**素材而 fork、複製或改作時，除你另有獨立之
+合法依據外，請遵循 PART A 與 PART B（含署名與 non-endorsement）；作
+者**強烈建議**任何可追溯至本專案之再利用均採用上方「Suggested
+attribution」作法。完整英文段落請見上方 "AI Disclosure"；其他法域
+標準可能不同。
 
 正式條款以下方 PART A 之英文 BSD 3-Clause 全文，以及 PART B 之
 英文 CC BY 4.0 legal code 為準。
