@@ -148,6 +148,8 @@ function world.reload_level_list()
   end
 end
 
+local parse_map -- 前置宣告，供 load_level_data 使用
+
 function world.load_level_data(level, opts)
   opts = opts or {}
   world.level_index = opts.index or 1
@@ -194,7 +196,7 @@ function world.get_level_count()
   return #LEVELS
 end
 
-local function parse_map()
+parse_map = function()
   grid = {}
   world.pickups = {}
   world.gates = {}
